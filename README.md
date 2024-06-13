@@ -14,11 +14,15 @@ Funciona como um capitão de um time e é responsável por garantir que as engre
 
 
 
+
+
 ***Product Owner***
 
 ![Funções de um Product Owner](https://www.romanpichler.com/wp-content/uploads/2020/04/scrum-po-vs-safe-po-1024x478.png.webp)
 
 É o responsável principal pelo produto, determina para qual direção o produto  deverá evoluir. Tem a função de encaminhar as demandas para o time Scrum. Gerencia a fila de demandas conhecida como Product Backlog.
+
+
 
 
 
